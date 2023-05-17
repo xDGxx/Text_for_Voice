@@ -6,9 +6,18 @@ body{
     height: auto;
 }
 
+header{
+  text-align: center;
+  color: #fff;
+  font-size: 30px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 400;
+}
+
 .fala{
     display: flex;
     flex-direction: column;
+    margin-top: -40px;
 }
 
 input {
